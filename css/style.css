@@ -46,6 +46,7 @@ footer {
 
 @@media screen and (min-width: 768px) {
   .container {
+    margin: 0 auto;
     width: 720px;
   }
 
@@ -63,7 +64,6 @@ footer {
 
   section {
     min-height: 200px;
-    margin-right: 1%;
     width: 100%;
   }
 
